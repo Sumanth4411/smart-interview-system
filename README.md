@@ -86,8 +86,9 @@ Feel free to fork this repo and improve it. Pull requests are welcome!
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots:
 
+<img width="1862" height="789" alt="Image" src="https://github.com/user-attachments/assets/57a31e9f-210d-4846-ae14-a3d22734a765" />
 
 
 ## 👨‍💻 Author
