@@ -90,6 +90,10 @@ Feel free to fork this repo and improve it. Pull requests are welcome!
 
 <img width="1862" height="789" alt="Image" src="https://github.com/user-attachments/assets/57a31e9f-210d-4846-ae14-a3d22734a765" />
 
+<img width="1892" height="884" alt="Image" src="https://github.com/user-attachments/assets/488c60ca-ea2e-4691-8b75-e9687cc827d1" />
+
+<img width="1843" height="862" alt="Image" src="https://github.com/user-attachments/assets/21c392a1-fdd4-4f62-a420-e86d5dcfa559" />
+
 
 ## 👨‍💻 Author
 
