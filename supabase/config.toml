@@ -1,0 +1,13 @@
+project_id = "ifcnfxihbysatsbodmuy"
+
+[functions.generate-questions]
+verify_jwt = false
+
+[functions.evaluate-answer]
+verify_jwt = false
+
+[functions.final-report]
+verify_jwt = false
+
+[functions.transcribe-audio]
+verify_jwt = false
